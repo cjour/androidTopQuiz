@@ -1,3 +1,3 @@
 # androidTopQuiz
 
-An android app based on an MVC architecture for a quiz application (full JAVA, no Kotlin so far).
+An android app based on an MVC architecture for a quiz (full JAVA, no Kotlin so far).
